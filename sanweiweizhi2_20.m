@@ -8,7 +8,7 @@ clc;
 % set(groot, 'defaultTextFontName', 'Arial');
 
 % 读取Excel文件
-filename = 'A-2-20-前92秒.xlsx';
+filename = 'weizhi.xlsx';
 data = xlsread(filename);
 
 % 提取时间和角速度数据
